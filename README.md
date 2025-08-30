@@ -98,3 +98,16 @@ npm run dev
 -- Local language translation for broader accessibility.
 
 -- Gamification (badges, quizzes, progress tracking).
+
+---
+
+![Game Screenshot](screenshot1.png)
+
+---
+
+![Game Screenshot](screenshot3.png)
+
+---
+
+![Game Screenshot](screenshot6.png)
+
