@@ -44,23 +44,23 @@ This prototype focuses on one key course: **Solar Panel Technician**, designed t
 ---
 
 ## 📂 Project Structure
-SeekhoAI/
-│── backend/
-│ ├── main.py
-│ ├── requirements.txt
-│ ├── .env.example
-│
-│── frontend/
-│ ├── package.json
-│ ├── src/
-│ │ ├── components/
-│ │ │ ├── CurriculumPage.js
-│ │ │ ├── LessonPage.js
-│ │ │ ├── TutorChat.js
-│ │ ├── App.jsx
-│ │ ├── main.jsx
-│
-└── README.md
+-- SeekhoAI/
+-- │── backend/
+-- │ ├── main.py
+-- │ ├── requirements.txt
+-- │ ├── .env.example
+-- │
+-- │── frontend/
+-- │ ├── package.json
+-- │ ├── src/
+-- │ │ ├── components/
+-- │ │ │ ├── CurriculumPage.js
+-- │ │ │ ├── LessonPage.js
+-- │ │ │ ├── TutorChat.js
+-- │ │ ├── App.jsx
+-- │ │ ├── main.jsx
+-- │
+-- └── README.md
 
 ---
 
