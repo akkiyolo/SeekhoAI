@@ -79,7 +79,14 @@ cp .env.example .env
 # Add your GEMINI_API_KEY in .env
 uvicorn main:app --reload --port 8002
 ```
+---
 
+### 2️⃣ Frontend Setup (React + Vite)
+```bash
+cd frontend
+npm install
+npm run dev
+```
 ---
 
 🔮 Future Enhancements
