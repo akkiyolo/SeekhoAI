@@ -44,6 +44,7 @@ This prototype focuses on one key course: **Solar Panel Technician**, designed t
 ---
 
 ## 📂 Project Structure
+```bash
 -- SeekhoAI/
 -- │── backend/
 -- │ ├── main.py
@@ -61,7 +62,7 @@ This prototype focuses on one key course: **Solar Panel Technician**, designed t
 -- │ │ ├── main.jsx
 -- │
 -- └── README.md
-
+```
 ---
 
 
